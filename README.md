@@ -1,2 +1,2 @@
 # Theme Changer
-* App to change themes
+* App to select a random theme from a list of available themes
