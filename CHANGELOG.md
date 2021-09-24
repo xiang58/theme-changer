@@ -1,3 +1,5 @@
+## v0.0.1
+* ~~[**TC-6**](https://daniel-hengyu-xiang.atlassian.net/browse/TC-6) MVP~~
 ___
 ## v0.0.0
 * ~~[**TC-1**](https://daniel-hengyu-xiang.atlassian.net/browse/TC-1) Project Kickoff~~
